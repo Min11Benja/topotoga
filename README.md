@@ -33,11 +33,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Basic knoledge of;
-  HTML
-  CSS
-  JAVASCRIPT
-  CHARTS JS
-  VUE JS
+  HTML,
+  CSS,
+  JAVASCRIPT,
+  CHARTS JS,
+  VUE JS,
   VUEX JS
   
 What things you need to install the software and how to install them
