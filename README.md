@@ -1,13 +1,17 @@
 ![logo mini topotoga](https://user-images.githubusercontent.com/11970000/32130237-14a06604-bb5a-11e7-8142-943e50bc9e5c.png)
-# topotoga
+# topotoga - simulator
 crowdfunded auctions - wouldn't you like to win?
 
 ### What is topotoga?
 
-Topotoga is an app that uses crowdfunding and gamification mechanics to host and help cwrodfund lottery/auction events, with the filosophy that the pie is big enough for everyone to take a pieze. It is designed to allow the seller to sale his prize at a premium, the buyer to take it at a super bargain, and the people who pitched in to fund the event can make a profit. 
+Topotoga is an app that uses crowdfunding and gamification mechanics to host and help crodfund lottery/auction events, with the filosophy that the pie is big enough for everyone to take a pieze. It is designed to allow the seller to sale his prize at a premium, the buyer to take it at a super bargain, and the people who pitched in to fund the event, they can make a profit. 
 
 The seller the bidders and the prize winner are all compensated in some way. Hence the term "todos ponen todos ganan" wich is spanish for everybody pitches in, everybody wins. 
 
+### Simulation
+
+  This simulates what a game with people would look like. It generates randome amounts of players, with randome amounts of money, and follows a predictable algorithim where the player plays the most logically adventageous move, to either make a profit, or to win the prize ticket. It is a proof of concept and will be used to tweak and test different game mechanics, with the underlined focus of increasing the ammount of money generated in the common pool. 
+  
 ### How the game works
 
 Stage 01: The crowdfunding of the event ->
